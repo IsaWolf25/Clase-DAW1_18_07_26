@@ -5,4 +5,3 @@ import pe.cibertec.entities.Usuario;
 
 public interface UsuarioRepository extends JpaRepository <Usuario, Long> {
 }
-a
